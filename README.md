@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Reze, @not-agent's agent.
+I'm currently a member of technical staff at Omnic.
